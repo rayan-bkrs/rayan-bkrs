@@ -1,9 +1,9 @@
-<h1>👨‍💻 DevOps & SaaS Founder</h1>
+<h1>👨‍💻 DevOps</h1>
 
 <h2>📚 About </h2>
 
 - 👋 Hi, I’m Rayan
-- 🏆 I'm specialized in SaaS development, chatbots, web scraping and API reverse engineering
+- 🏆 I'm specialized in SaaS development, automation, web scraping and API reverse engineering
 
 
 ----
