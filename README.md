@@ -1,11 +1,11 @@
-<h1>👨‍💻 Software Engineer</h1>
+<h1>Software Engineer</h1>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rayan-bkrs&theme=tokyonight">
 </p>
 
 
 
-<h2>📚 About </h2>
+<h2>About </h2>
 
 I build software, automate workflows and turn ideas into products.
 
