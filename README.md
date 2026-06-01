@@ -7,7 +7,7 @@
 
 <h2>📚 About </h2>
 
-I build SaaS products, automate workflows and enjoy understanding how systems work under the hood.
+I build software, automate workflows and turn ideas into products.
 
 ----
 
