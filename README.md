@@ -13,7 +13,7 @@ I build software, automate workflows and design scalable systems.
 
 
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=python,html,css,php,bootstrap,linux,ubuntu,bash,java,selenium,git,github,sass,sqlite,postgresql,docker,supabase,nodejs,typescript,nestjs,nextjs,vercel&perline=11"/>
+   <img src="https://skillicons.dev/icons?i=python,html,css,php,bootstrap,linux,ubuntu,bash,java,selenium,git,github,sass,sqlite,postgresql,docker,supabase,nodejs,typescript,react,nestjs,nextjs,vercel,cloudflare&perline=12"/>
 </p>
 
 <h2 align="center"><a href="https://t.me/rayan960">Telegram</a></h2>
