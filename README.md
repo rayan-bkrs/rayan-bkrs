@@ -7,7 +7,7 @@
 
 <h2>About </h2>
 
-I build software, automate workflows and design scalable systems.
+Building software, automate workflows and design scalable systems.
 
 ----
 
